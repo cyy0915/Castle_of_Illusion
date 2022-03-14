@@ -1,0 +1,13 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "4.27",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "Castle_of_Illusion",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	]
+}
